@@ -2,7 +2,7 @@
 
 This is the official implementation of our paper, "You Only Pose Once: A Minimalist's Detection Transformer for Monocular RGB Category-level 9D Multi-Object Pose Estimation."
 
-[Project](https://mikigom.github.io/YOPO-project-page/) [Paper](https://arxiv.org/abs/2508.14965) [Video](https://youtu.be/8n0QMGGdnHE)
+[[Project]](https://mikigom.github.io/YOPO-project-page/) [[Paper]](https://arxiv.org/abs/2508.14965) [[Video]](https://youtu.be/8n0QMGGdnHE)
 
 Code will be released after acceptance.
 
